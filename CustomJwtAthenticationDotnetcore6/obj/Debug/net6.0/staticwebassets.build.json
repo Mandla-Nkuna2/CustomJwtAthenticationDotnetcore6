@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mi59730E+s9o5sthTmwKgBrpic4xWsuq7MMwn2i7JKA=",
+  "Source": "CustomJwtAthenticationDotnetcore6",
+  "BasePath": "_content/CustomJwtAthenticationDotnetcore6",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
